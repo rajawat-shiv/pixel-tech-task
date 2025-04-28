@@ -20,3 +20,4 @@ To get started with this project, clone the repository and install the necessary
 git clone <repo-url>
 cd pixel-tech-task
 npm install
+npm run dev
